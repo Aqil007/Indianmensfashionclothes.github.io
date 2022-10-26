@@ -1,0 +1,28 @@
+body{
+            padding: 0;
+            margin: 0;
+
+        }
+     
+.hero1 {
+
+   background-color: black;
+   height: 100vh;
+  background-repeat: no-repeat;
+ background: cover;
+ 
+ 
+}
+p{
+	color: white;
+	font-size: 25px;
+	margin: 0 50px 0 50px;
+  border: 2px solid white;
+  padding: 20px;
+
+
+}
+.h1{
+	color: yellow;
+	text-align: center;
+}
